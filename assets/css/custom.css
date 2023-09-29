@@ -1,0 +1,13 @@
+:root {
+  --border-width: 80px;
+  --custom-border-radius: 28px;
+}
+
+.custom-hero {
+    height: 400px;
+    background-color: red;
+    padding: 20px;
+    border-radius: var(--custom-border-radius) ;
+}
+
+
