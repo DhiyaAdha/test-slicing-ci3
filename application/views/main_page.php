@@ -466,8 +466,17 @@
                 </div>
                 <!-- coba -->
                 <div class="container-xxl container-fluid custom-height d-flex align-items-center justify-content-center custom-hero">
+                    <div class="container py-5">
+                        <div class="row g-4">
+                            <div class="col-md-12 col-lg-6 text-center color-bg" >
+                                <i class="fa fa-paw fa-3x text-primary mb-3"></i>
+                                <h1 class="text-white mb-2" data-toggle="counter-up">12345</h1>
+                                <p class="text-white mb-0">Total Animal</p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
-               
+
 
 
 

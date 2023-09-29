@@ -1,13 +1,18 @@
 :root {
-  --border-width: 80px;
-  --custom-border-radius: 28px;
+	--border-width: 80px;
+	--custom-border-radius: 28px;
 }
 
 .custom-hero {
-    height: 400px;
-    background-color: red;
-    padding: 20px;
-    border-radius: var(--custom-border-radius) ;
+	height: 400px;
+	background-color: red;
+	padding: 20px;
+	border-radius: var(--custom-border-radius);
+	/* cover */
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../img/dummy/hero.JPG) center center no-repeat;
+    background-size: cover;
 }
 
-
+.color-bg {
+    background-color:  red;
+}
