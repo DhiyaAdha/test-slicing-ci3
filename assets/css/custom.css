@@ -4,6 +4,7 @@
 }
 
 .custom-hero {
+    margin-bottom: 14px;
 	height: 400px;
 	background-color: red;
 	padding: 20px;
@@ -13,6 +14,23 @@
     background-size: cover;
 }
 
-.color-bg {
-    background-color:  red;
+.custom-hero-1 {
+    margin-bottom: 14px;
+	height: 400px;
+	background-color: red;
+	padding: 20px;
+	border-radius: var(--custom-border-radius);
 }
+
+.color-bg {
+    /* background-color:  red; */
+}
+
+.btn-get {
+    background-color: #4D17E2;
+    padding: 0.75rem 3rem;
+    margin-left: -18%;
+    margin-top: 20px;
+}
+
+

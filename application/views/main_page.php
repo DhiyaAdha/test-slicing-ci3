@@ -219,7 +219,50 @@
         </section>
 
         <main class="main-wrapper">
+
             <div class="ps-lg-0">
+                <!-- hero-card -->
+                <div class="container-xxl container-fluid custom-height d-flex align-items-center justify-content-center custom-hero ">
+                    <div class="container py-5">
+                        <div class="row g-3">
+                            <div class="col-md-12 col-lg-4 text-center color-bg">
+                                <i class="fa fa-paw fa-3x text-primary mb-3"></i>
+                                <h5 class="text-white mb-0 display-5 " style="text-align: left; font-size: 200%;">Create Your Own</h5>
+                                <h1 class="text-white mb-0 " style="text-align: left; font-weight: bold; font-size: 400%;">Easport</h1>
+                                <h1 class="text-white mb-0 " style="text-align: left; font-size: 300%;">Tournament</h1>
+                                <a class="btn btn-get text-lg text-white rounded-pill" href="#feature" role="button" style="font-size: 16px;">
+                                    Create Tournament
+                                </a>
+                            </div>
+                            <div class="col-md-12 col-lg-4 text-center ">
+                            </div>
+                            <div class="col-md-12 col-lg-4 text-center ">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="container-xxl container-fluid custom-height d-flex align-items-center justify-content-center custom-hero-1 ">
+                    <div class="container">
+                        <div class="row g-6">
+                            <div class="col-md-12 col-lg-2 text-center color-bg">
+                            </div>
+                            <div class="col-md-12 col-lg-2 text-center ">
+                            </div>
+                            <div class="col-md-12 col-lg-2 text-center ">
+                            </div>
+                            <div class="col-md-12 col-lg-2 text-center ">
+                            </div>
+                            <div class="col-md-12 col-lg-2 text-center ">
+                            </div>
+                            <div class="col-md-12 col-lg-2 text-center ">
+                            </div>
+                            <div class="col-md-12 col-lg-2 text-center ">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
                 <h2 class="text-4xl fw-bold color-palette-1 mb-30">Overview</h2>
 
                 <!-- card info -->
@@ -464,18 +507,7 @@
                         </div>
                     </div>
                 </div>
-                <!-- coba -->
-                <div class="container-xxl container-fluid custom-height d-flex align-items-center justify-content-center custom-hero">
-                    <div class="container py-5">
-                        <div class="row g-4">
-                            <div class="col-md-12 col-lg-6 text-center color-bg" >
-                                <i class="fa fa-paw fa-3x text-primary mb-3"></i>
-                                <h1 class="text-white mb-2" data-toggle="counter-up">12345</h1>
-                                <p class="text-white mb-0">Total Animal</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+
 
 
 
