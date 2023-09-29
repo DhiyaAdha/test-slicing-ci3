@@ -4,7 +4,7 @@
 }
 
 .custom-hero {
-    margin-bottom: 14px;
+    margin-bottom: 20px;
 	height: 400px;
 	background-color: red;
 	padding: 20px;
@@ -16,9 +16,9 @@
 
 .custom-hero-1 {
     margin-bottom: 14px;
-	height: 400px;
+	height: 120px;
 	background-color: red;
-	padding: 20px;
+	padding: 8px;
 	border-radius: var(--custom-border-radius);
 }
 
@@ -31,6 +31,12 @@
     padding: 0.75rem 3rem;
     margin-left: -18%;
     margin-top: 20px;
+}
+
+.bg-card-cs {
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .7)), url(../img/dummy/hero.JPG) center center no-repeat;
+    background-size: cover;
+    height: 260px;
 }
 
 

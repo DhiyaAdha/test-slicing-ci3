@@ -245,19 +245,24 @@
                     <div class="container">
                         <div class="row g-6">
                             <div class="col-md-12 col-lg-2 text-center color-bg">
+                                <img src="http://localhost:8080/slicing-test/assets/img/avatar-1.png" width="60" height="60" viewbox="0 0 60 60" fill="none" class="d-flex align-items-center">
                             </div>
-                            <div class="col-md-12 col-lg-2 text-center ">
+                            <div class="col-md-12 col-lg-2 text-center color-bg">
+                                <img src="http://localhost:8080/slicing-test/assets/img/avatar-1.png" width="60" height="60" viewbox="0 0 60 60" fill="none" class="d-flex align-items-center">
                             </div>
-                            <div class="col-md-12 col-lg-2 text-center ">
+                            <div class="col-md-12 col-lg-2 text-center color-bg">
+                                <img src="http://localhost:8080/slicing-test/assets/img/avatar-1.png" width="60" height="60" viewbox="0 0 60 60" fill="none" class="d-flex align-items-center">
                             </div>
-                            <div class="col-md-12 col-lg-2 text-center ">
+                            <div class="col-md-12 col-lg-2 text-center color-bg">
+                                <img src="http://localhost:8080/slicing-test/assets/img/avatar-1.png" width="60" height="60" viewbox="0 0 60 60" fill="none" class="d-flex align-items-center">
                             </div>
-                            <div class="col-md-12 col-lg-2 text-center ">
+                            <div class="col-md-12 col-lg-2 text-center color-bg">
+                                <img src="http://localhost:8080/slicing-test/assets/img/avatar-1.png" width="60" height="60" viewbox="0 0 60 60" fill="none" class="d-flex align-items-center">
                             </div>
-                            <div class="col-md-12 col-lg-2 text-center ">
+                            <div class="col-md-12 col-lg-2 text-center color-bg">
+                                <img src="http://localhost:8080/slicing-test/assets/img/avatar-1.png" width="60" height="60" viewbox="0 0 60 60" fill="none" class="d-flex align-items-center">
                             </div>
-                            <div class="col-md-12 col-lg-2 text-center ">
-                            </div>
+
                         </div>
                     </div>
                 </div>
@@ -268,6 +273,20 @@
                 <!-- card info -->
                 <div class="top-up-categories mb-30">
                     <p class="text-lg fw-medium color-palette-1 mb-14">Top Up Categories</p>
+                    <div class="main-content">
+                        <div class="row">
+                            <div class="col-lg-3 ps-15 pe-15 pb-lg-0 pb-4">
+                                <div class="categories-card bg-card-cs">
+
+                                    <div>
+                                        <p class="text-sm color-palette-2 mb-1">Total Spent</p>
+                                        <p class="text-2xl color-palette-1 fw-medium m-0">Rp 18.000.500</p>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                        </div>
+                    </div>
                     <div class="main-content">
                         <div class="row">
                             <div class="col-lg-4 ps-15 pe-15 pb-lg-0 pb-4">
@@ -372,143 +391,6 @@
                         </div>
                     </div>
                 </div>
-                <div class="latest-transaction">
-                    <p class="text-lg fw-medium color-palette-1 mb-14">Latest Transactions</p>
-                    <div class="main-content main-content-table overflow-auto">
-                        <table class="table table-borderless">
-                            <thead>
-                                <tr class="color-palette-1">
-                                    <th class="text-start" scope="col">Game</th>
-                                    <th scope="col">Item</th>
-                                    <th scope="col">Price</th>
-                                    <th scope="col">Status</th>
-                                </tr>
-                            </thead>
-                            <tbody>
-                                <tr class="align-middle">
-                                    <th scope="row">
-                                        <img class="float-start me-3 mb-lg-0 mb-3" src="<?php echo base_url('assets/img/overview-1.png'); ?>" width="80" height="60" alt="">
-                                        <div class="game-title-header">
-                                            <p class="game-title fw-medium text-start color-palette-1 m-0">Mobile
-                                                Legends:
-                                                The New
-                                                Battle 2021</p>
-                                            <p class="text-xs fw-normal text-start color-palette-2 m-0">Desktop</p>
-                                        </div>
-                                    </th>
-                                    <td>
-                                        <p class="fw-medium color-palette-1 m-0">200 Gold</p>
-                                    </td>
-                                    <td>
-                                        <p class="fw-medium text-start color-palette-1 m-0">Rp 290.000</p>
-                                    </td>
-                                    <td>
-                                        <div>
-                                            <span class="float-start icon-status pending"></span>
-                                            <p class="fw-medium text-start color-palette-1 m-0 position-relative">
-                                                Pending</p>
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr class="align-middle text-center">
-                                    <th scope="row">
-                                        <img class="float-start me-3 mb-lg-0 mb-3" src="../assets/img/overview-2.png" width="80" height="60" alt="">
-                                        <div class="game-title-header">
-                                            <p class="game-title fw-medium text-start color-palette-1 m-0">Call of
-                                                Duty:Modern</p>
-                                            <p class="text-xs fw-normal text-start color-palette-2 m-0">Desktop</p>
-                                        </div>
-                                    </th>
-                                    <td>
-                                        <p class="fw-medium text-start color-palette-1 m-0">550 Gold</p>
-                                    </td>
-                                    <td>
-                                        <p class="fw-medium text-start color-palette-1 m-0">Rp 740.000</p>
-                                    </td>
-                                    <td>
-                                        <div>
-                                            <span class="float-start icon-status success"></span>
-                                            <p class="fw-medium text-start color-palette-1 m-0 position-relative">
-                                                Success</p>
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr class="align-middle text-center">
-                                    <th scope="row">
-                                        <img class="float-start me-3 mb-lg-0 mb-3" src="../assets/img/overview-3.png" width="80" height="60" alt="">
-                                        <div class="game-title-header">
-                                            <p class="game-title fw-medium text-start color-palette-1 m-0">Clash of
-                                                Clans</p>
-                                            <p class="text-xs fw-normal text-start color-palette-2 m-0">Mobile</p>
-                                        </div>
-                                    </th>
-                                    <td>
-                                        <p class="fw-medium text-start color-palette-1 m-0">100 Gold</p>
-                                    </td>
-                                    <td>
-                                        <p class="fw-medium text-start color-palette-1 m-0">Rp 120.000</p>
-                                    </td>
-                                    <td>
-                                        <div>
-                                            <span class="float-start icon-status failed"></span>
-                                            <p class="fw-medium text-start color-palette-1 m-0 position-relative">Failed
-                                            </p>
-                                        </div>
-                                    </td>
-                                </tr>
-                                <tr class="align-middle text-center">
-                                    <th scope="row">
-                                        <img class="float-start me-3 mb-lg-0 mb-3" src="../assets/img/overview-4.png" width="80" height="60" alt="">
-                                        <div class="game-title-header">
-                                            <p class="game-title fw-medium text-start color-palette-1 m-0">The Royal
-                                                Game</p>
-                                            <p class="text-xs fw-normal text-start color-palette-2 m-0">Mobile</p>
-                                        </div>
-                                    </th>
-                                    <td>
-                                        <p class="fw-medium text-start color-palette-1 m-0">225 Gold</p>
-                                    </td>
-                                    <td>
-                                        <p class="fw-medium text-start color-palette-1 m-0">Rp 200.000</p>
-                                    </td>
-                                    <td>
-                                        <div>
-                                            <span class="float-start icon-status pending"></span>
-                                            <p class="fw-medium text-start color-palette-1 m-0 position-relative">
-                                                Pending</p>
-                                        </div>
-                                    </td>
-                                </tr>
-
-                            </tbody>
-                        </table>
-                    </div>
-                </div>
-                <!-- Story -->
-                <div class="container-xxl container-fluid">
-                    <div class="rounded" style="background-color: red; padding: 20px;">
-                        Ini adalah kotak merah dengan sudut yang dibulatkan sebesar 40%.
-                    </div>
-
-                    <div class="row align-items-center px-lg-5 mx-auto gap-lg-0 gap-4">
-                        <div class="col-lg-7 col-12 d-lg-flex d-none justify-content-lg-end pe-lg-60" data-aos="zoom-in">
-                            <img src="<?php echo base_url('assets/img/Header-9.png') ?>" width="612" height="452" class="img-fluid" alt="">
-                        </div>
-                        <div class="col-lg-5 col-12 ps-lg-60">
-                            <div class="">
-                                <h2 class="text-4xl fw-bold color-palette-1 mb-30">Win the battle.<br> Be the Champion.
-                                </h2>
-                                <p class="text-lg color-palette-1 mb-30">Kami menyediakan jutaan cara untuk<br class="d-sm-block d-none">
-                                    membantu players menjadi<br class="d-sm-block d-none"> pemenang sejati</p>
-                                <div class="d-md-block d-flex flex-column w-100">
-                                    <a class="btn btn-read text-lg rounded-pill" href="#" role="button">Read Story</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
 
 
 
