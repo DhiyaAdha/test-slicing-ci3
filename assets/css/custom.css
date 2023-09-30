@@ -23,13 +23,14 @@
 }
 
 .color-bg {
-    /* background-color:  red; */
+    background-color:  red;
+    
 }
 
 .btn-get {
     background-color: #4D17E2;
     padding: 0.75rem 3rem;
-    margin-left: -18%;
+    margin-left: -4%;
     margin-top: 20px;
 }
 

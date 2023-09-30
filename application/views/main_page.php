@@ -230,61 +230,54 @@
                                 <h5 class="text-white mb-0 display-5 " style="text-align: left; font-size: 200%;">Create Your Own</h5>
                                 <h1 class="text-white mb-0 " style="text-align: left; font-weight: bold; font-size: 400%;">Easport</h1>
                                 <h1 class="text-white mb-0 " style="text-align: left; font-size: 300%;">Tournament</h1>
-                                <a class="btn btn-get text-lg text-white rounded-pill" href="#feature" role="button" style="font-size: 16px;">
-                                    Create Tournament
-                                </a>
+                                <div class="container">
+                                    <div class="row">
+
+                                    </div>
+                                </div>
                             </div>
-                            <div class="col-md-12 col-lg-4 text-center ">
-                            </div>
-                            <div class="col-md-12 col-lg-4 text-center ">
-                            </div>
+
                         </div>
                     </div>
                 </div>
                 <div class="container-xxl container-fluid custom-height d-flex align-items-center justify-content-center custom-hero-1 ">
                     <div class="container">
-                        <div class="row g-6">
-                            <div class="col-md-12 col-lg-2 text-center color-bg">
-                                <img src="http://localhost:8080/slicing-test/assets/img/avatar-1.png" width="60" height="60" viewbox="0 0 60 60" fill="none" class="d-flex align-items-center">
-                            </div>
-                            <div class="col-md-12 col-lg-2 text-center color-bg">
-                                <img src="http://localhost:8080/slicing-test/assets/img/avatar-1.png" width="60" height="60" viewbox="0 0 60 60" fill="none" class="d-flex align-items-center">
-                            </div>
-                            <div class="col-md-12 col-lg-2 text-center color-bg">
-                                <img src="http://localhost:8080/slicing-test/assets/img/avatar-1.png" width="60" height="60" viewbox="0 0 60 60" fill="none" class="d-flex align-items-center">
-                            </div>
-                            <div class="col-md-12 col-lg-2 text-center color-bg">
-                                <img src="http://localhost:8080/slicing-test/assets/img/avatar-1.png" width="60" height="60" viewbox="0 0 60 60" fill="none" class="d-flex align-items-center">
-                            </div>
-                            <div class="col-md-12 col-lg-2 text-center color-bg">
-                                <img src="http://localhost:8080/slicing-test/assets/img/avatar-1.png" width="60" height="60" viewbox="0 0 60 60" fill="none" class="d-flex align-items-center">
-                            </div>
-                            <div class="col-md-12 col-lg-2 text-center color-bg">
-                                <img src="http://localhost:8080/slicing-test/assets/img/avatar-1.png" width="60" height="60" viewbox="0 0 60 60" fill="none" class="d-flex align-items-center">
-                            </div>
 
-                        </div>
                     </div>
                 </div>
 
-
-                <h2 class="text-4xl fw-bold color-palette-1 mb-30">Overview</h2>
+                <!-- <h2 class="text-4xl fw-bold color-palette-1 mb-30">Overview</h2> -->
 
                 <!-- card info -->
                 <div class="top-up-categories mb-30">
                     <p class="text-lg fw-medium color-palette-1 mb-14">Top Up Categories</p>
                     <div class="main-content">
                         <div class="row">
-                            <div class="col-lg-3 ps-15 pe-15 pb-lg-0 pb-4">
-                                <div class="categories-card bg-card-cs">
+                            <!-- card sample -->
 
-                                    <div>
-                                        <p class="text-sm color-palette-2 mb-1">Total Spent</p>
-                                        <p class="text-2xl color-palette-1 fw-medium m-0">Rp 18.000.500</p>
-                                    </div>
+                            <div class="card color-bg" style="width: 18rem;">
+                                <img src="<?php echo base_url('assets/img/dummy/hero.jpg') ?>" class="card-img-top" alt="gambar game">
+                                <div class="card-body">
+                                    <h5 class="card-title">Mobile Legends</h5>
+                                    <p class="card-text">MPL Indonesia Season 11</p>
+
+                                </div>
+                                <ul class="list-group list-group-flush">
+                                    <li class="list-group-item">29 Februari - 30 September</li>
+                                    <li class="list-group-item">8/8 teams</li>
+                                    <li class="list-group-item">A third item</li>
+                                    <li class="list-group-item align-align-align-self-end w-auto h-auto">
+                                        <a class="btn btn-get text-white text-center rounded-pill " href="#feature" role="button" style="font-size: 14px;">
+                                            details hahah
+                                        </a>
+                                    </li>
+
+
+                                </ul>
+                                <div class="card-body">
                                 </div>
                             </div>
-                            
+
                         </div>
                     </div>
                     <div class="main-content">
@@ -391,8 +384,6 @@
                         </div>
                     </div>
                 </div>
-
-
 
         </main>
     </section>
